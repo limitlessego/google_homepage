@@ -1,0 +1,46 @@
+#navbar ul{
+    display: inline-flex;
+    font-size: 1em !important;
+    font-weight: 100 !important;
+  
+}
+#navbar {
+    display:flex;
+    justify-content: space-between;
+}
+.search-box{
+    width:400px;
+}
+#footer {
+position: absolute;
+bottom:0;
+}
+#footer ul{
+    display:flex !important;
+    justify-content: space-between !important;
+}
+img{
+    justify-content: center;
+   
+}
+.section {
+    display:block;
+text-align:center;
+}
+.section-1{
+    display: flex;
+    justify-content: space-around;
+}
+
+body{
+    width:100vw;
+    height:100vh;
+}
+main{
+    margin-top:30vh !important ;
+    margin-bottom:auto;
+    display:flex;
+    justify-content: center;
+    margin:0;
+    padding:0;
+}
