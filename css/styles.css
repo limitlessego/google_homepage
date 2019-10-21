@@ -41,7 +41,10 @@
 .search-box{
     width:400px;
     margin-bottom:10px;
+    border-radius:20px;
+    height:30px;
 }
+
 #footer {
     width:100vw;
     position: absolute;
